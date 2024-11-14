@@ -8,3 +8,52 @@ cache/
 config.json
 init-config.json
 configs/
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon files
+Icon?
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories
+.DVDTesting
+.Angel
+
+# macOS Finder resource forks
+**/.fseventsd
+**/.Spotlight-V100
+**/.TemporaryItems
+**/.Trashes
+**/.VolumeIcon.icns
+**/.com.apple.timemachine.donotpresent
+
+# Vim swap files
+.*.swp
+
+# VSCode files
+.vscode/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
